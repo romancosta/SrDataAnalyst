@@ -2,17 +2,16 @@
 
 ## Contact
 📧 romangcosta@gmail.com  
-🔗 [LinkedIn Profile]()  
+🔗 [LinkedIn](https://www.linkedin.com/in/romancosta)
 
 ## Professional Summary
-Passionate about leveraging technology to turn data into insight, and insight into action. Proven ability to adapt to change and quickly learn new skills. Known for being honest and reliable, and exceeding expectations.
+Passionate about leveraging technology to turn data into insight, and insight into action. Proven ability to adapt to change and quickly learn new skills. Known for being honest and reliable, and exceeding expectations. 5+ years in healthcare analytics and committed to improving patient outcomes.
 
 ## Technical Skills
-- **Programming Languages**: Python, R, SQL
-- **Data Visualization**: Power BI, Tableau
-- **Database Management**: T-SQL, PostgreSQL, MySQL
-- **Tools & Technologies**: Git, Excel
-- **Statistical Analysis**: A/B Testing, Regression Analysis
+- **Power BI**: DAX, Power Query, M, Workspace and app administration
+- **Programming**: SQL, Python, R, VBA
+- **Data Visualization**: Power BI, Tableau, Excel
+- **Database Management**: T-SQL, PostgreSQL, MySQL, Snowflake
 
 ## Professional Experience
 
@@ -36,9 +35,23 @@ Passionate about leveraging technology to turn data into insight, and insight in
 - Led a day-long collaborative analyses of insurance demographics with executives to facilitate acquisition by Goldman Sachs and Charlesbank.
 - Reduced gap in leading departmental KPI by 76%.
 
-## Education
+### Citrix | Sales Operations Analyst, Intern
+*May 2019 – August 2019*
+- Automated +20 static SFDC reports using SQL and Power Query.
+- Clearly communicated and tracked sales programs in +10 countries.
+- Owned +15 dashboards tracking pipeline, revenue, lead conversion, and call data among other metrics. 
 
-## Certifications
+### VMware | Sales Operations Analyst, Intern
+*May 2018 – August 2018*
+- Developed a booking forecast model for sales across LATAM region.
+- Created views in SQL Server to clean and load data to the model.
+- Enabled data-driven revenue budgeting for over $200M annually. 
+
+
+## Education
+### Elon University, Martha & Spencer Love School of Business
+*August 2016 - May 2020*
+- BSBA, Business Management, Analytics concentration (GPA: 3.49)
 
 ## Languages
 English (Native), Spanish (Fluent)
