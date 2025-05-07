@@ -27,7 +27,7 @@ Passionate about leveraging technology to turn data into insight, and insight in
 - Migrated Power BI tenant for +1,000 daily users with no down-time.
 - Converted over 100 reports from SSRS to Power BI, refactoring legacy stored procedures into simple SQL select statements.
 - Translated business asks into technical requirements for reporting solutions.
-- 
+ 
 ### MDVIP, Inc.
 **Senior Data Analyst | *January 2022 - May 2022***
 - End-to-end Power BI development for a team of 10+.
